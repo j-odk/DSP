@@ -1,6 +1,6 @@
 # DSP
 ---
-Data Science Programming - Lessen + Tentamen 2020-2021 + cheatsheet
+Data Science Programming - Lessen + Oefententamen 2020-2021 + cheatsheet
 ---
 - Pull of download de repository
 - Extract data.zip or data.rar
